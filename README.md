@@ -2,7 +2,7 @@
 
 The goal of this project is to build a song recommendation system for users of Spotify with their streaming history. The models are evaluted by how well they rank the songs in the test set.
 
-The source data was provided by the company Spotify from Karagle. 
+The source data was provided by the company Spotify from Kaggle. 
 
 The project was built with Spark on Databricks platform.
 
