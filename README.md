@@ -28,6 +28,7 @@ The source data was provided by the company Spotify from Kaggle.
 
 
 
+## Model
 
 The project was built with Spark on Databricks platform.
 
