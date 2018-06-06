@@ -5,7 +5,7 @@ The goal of this project is to build a song recommendation system for users of S
 The source data was provided by the company Spotify from Kaggle. 
 
 ## Datasets
-([tracks.csv](tracks.csv)) - Contains the collection of the data where the customer is listening to a track, one event per line. The various attributes present in the dataset are
+([tracks.csv](tracks.csv)) - Contains the collection of the data where the customer is listening to a track, one event per line. 
 * Event ID : The unique identifier of the event where the customer is listening to the track (Integer)
 * Customer ID : The customer Id of the customer listening to the track (Integer)
 * Track ID : The track Id of the track currently being played (Integer)
