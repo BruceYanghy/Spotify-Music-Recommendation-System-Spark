@@ -39,7 +39,7 @@ The project is carried out in 7 steps:
 * Data Cleaning	
 * Data Exploration		
 * Model Evaluation
-* Benchmarks		
+* Benchmarks
 * Build ALS Explicit Model	
 * Build ALS Implicit Model	
 
